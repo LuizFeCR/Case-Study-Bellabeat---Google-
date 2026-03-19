@@ -95,7 +95,8 @@ O dashboard foi estruturado em duas páginas:
 ### 🟢 Página 1 — Tendências de Atividade
 
 <div align="center">
-    <img width="750" height="550" alt="Captura de tela 2026-03-18 151809" src="https://github.com/user-attachments/assets/2c5d32b2-0ef9-4148-9066-23d55338307d" />
+    <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/4e21a92c-4667-4c2b-a321-d610f87f9395" />
+
 </div>
 
     - Média de passos, calorias e tempo sedentário  
@@ -107,7 +108,8 @@ O dashboard foi estruturado em duas páginas:
 ### 🔵 Página 2 — Comportamento do Usuário
 
 <div align="center">
-    <img width="750" height="550" alt="Captura de tela 2026-03-18 151828" src="https://github.com/user-attachments/assets/f5329a8d-c7a4-472f-b0cc-6241c9078963" />
+    <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/061f7f84-e487-4106-8750-adf1b1aff81d" />
+
 </div>
 
     - Métricas médias de sono  
